@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muditgaur
 - Enthusiastic learner
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=muditgaur-1009)](https://git.io/streak-stats)
 -
 
 <!---
