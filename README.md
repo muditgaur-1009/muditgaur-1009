@@ -25,8 +25,8 @@ I'm a MERN stack developer and machine learning enthusiast. I have experience wo
 
 ## Links
 
-- LinkedIn: [Mudit Gaur](https://www.linkedin.com/in/mudit-gaur)
-- Instagram: [muditgaur](https://www.instagram.com/muditgaur)
+- LinkedIn: [Mudit Gaur](www.linkedin.com/in/mudit-gaur-601757189)
+- Instagram: [muditgaur](https://www.instagram.com/gaur__mudit)
 
 Feel free to connect with me on LinkedIn or reach out via Instagram. I'm always open to interesting discussions and collaboration opportunities!
 
