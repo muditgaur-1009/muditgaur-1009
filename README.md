@@ -1,4 +1,5 @@
-![Banner Image]([https://i.imgur.com/example/banner.jpg](https://github.com/heyValdemar/heyValdemar))
+![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 
 # Hi there, I'm Mudit Gaur! 👋
 
@@ -20,9 +21,9 @@ I'm a MERN stack developer and machine learning enthusiast. I have experience wo
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?logo=python&logoColor=white&style=flat)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-yellow?logo=python&logoColor=white&style=flat)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue?logo=python&logoColor=white&style=flat)
-![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg)
-![Keras](https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.png)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white&style=flat)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-green?logo=scikit-learn&logoColor=white&style=flat)
 ![NLTK](https://img.shields.io/badge/-NLTK-blueviolet?logo=python&logoColor=white&style=flat)
 ![NLP](https://img.shields.io/badge/-NLP-green?logo=python&logoColor=white&style=flat)
 ![Image Segmentation](https://img.shields.io/badge/-Image%20Segmentation-purple?logo=python&logoColor=white&style=flat)
