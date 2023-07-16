@@ -32,6 +32,9 @@ I'm a MERN stack developer and machine learning enthusiast. I have experience wo
 ## Languages
 ![CPP](https://img.shields.io/badge/-C++-green?logo=cpp&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-blueviolet?logo=Java&logoColor=white&style=flat)
+
 
 ## Links
 
