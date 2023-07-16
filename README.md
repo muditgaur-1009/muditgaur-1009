@@ -29,11 +29,14 @@ I'm a MERN stack developer and machine learning enthusiast. I have experience wo
 ![Image Segmentation](https://img.shields.io/badge/-Image%20Segmentation-purple?logo=python&logoColor=white&style=flat)
 ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-orange?logo=python&logoColor=white&style=flat)
 
+## Languages
+![CPP](https://img.shields.io/badge/-C++-green?logo=cpp&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)
 
 ## Links
 
-- LinkedIn: [Mudit Gaur](https://www.linkedin.com/in/mudit-gaur-601757189/)
-- Instagram: [muditgaur](https://www.instagram.com/gaur__mudit)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/mudit-gaur-601757189/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/gaur__mudit)
 
 Feel free to connect with me on LinkedIn or reach out via Instagram. I'm always open to interesting discussions and collaboration opportunities!
 
